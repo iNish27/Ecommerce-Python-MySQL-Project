@@ -87,5 +87,4 @@ Here are some of the key insights visualized from the dataset:
 If you found this project helpful or insightful:
 
 - ⭐ Star the repository
-- 🧠 Fork it and explore further
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/nish27/)
